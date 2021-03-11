@@ -1,0 +1,143 @@
+Total Number Of Iterations: 5 
+---
+Cluster 1 
+1.	KAKA
+
+---
+Cluster 2 
+1.	CHANEL
+2.	SpursOfficial
+
+---
+Cluster 3 
+1.	YouTube
+2.	jimmyfallon
+3.	Google
+4.	amazon
+5.	amazonmusic
+6.	Uber
+7.	lyft
+8.	levie
+9.	bchesky
+10.	VictoriasSecret
+11.	Android
+12.	Huawei
+13.	Xbox
+14.	Starbucks
+15.	justinbieber
+16.	katyperry
+17.	rihanna
+18.	ladygaga
+19.	TheEllenShow
+20.	KimKardashian
+21.	Twitter
+22.	britneyspears
+23.	KingJames
+24.	JLo
+25.	MileyCyrus
+26.	Oprah
+27.	NiallOfficial
+28.	KevinHart4real
+29.	wizkhalifa
+30.	instagram
+31.	Harry_Styles
+32.	Louis_Tomlinson
+33.	KylieJenner
+34.	Pink
+35.	onedirection
+36.	aliciakeys
+37.	KendallJenner
+38.	ManUtd
+39.	JohnCena
+40.	Everton
+41.	Arsenal
+42.	ManCity
+43.	SouthamptonFC
+44.	sundarpichai
+45.	udacity
+46.	coursera
+47.	edXOnline
+48.	freeCodeCamp
+49.	DataCamp
+50.	Tesla
+
+---
+Cluster 4 
+
+---
+Cluster 5 
+1.	OfficialFPL
+
+---
+Cluster 6 
+
+---
+Cluster 7 
+1.	rupertmurdoch
+2.	ArianaGrande
+3.	kdnuggets
+
+---
+Cluster 8 
+
+---
+Cluster 9 
+1.	tim_cook
+2.	BillGates
+3.	elonmusk
+4.	richardbranson
+5.	satyanadella
+6.	PlayStation
+7.	NintendoAmerica
+8.	RockstarGames
+9.	netflix
+10.	SpaceX
+11.	Telegraph
+12.	CBCNews
+13.	Independent
+14.	RT_com
+15.	guardiannews
+16.	AJEnglish
+17.	SkyNewsBreak
+18.	SkyNews
+19.	FinancialTimes
+20.	BreakingNews
+21.	washingtonpost
+22.	ABC
+23.	TIME
+24.	WSJ
+25.	Reuters
+26.	TheEconomist
+27.	BBCWorld
+28.	BBCBreaking
+29.	CNN
+30.	nytimes
+31.	BarackObama
+32.	realDonaldTrump
+33.	cnnbrk
+34.	shakira
+35.	SportsCenter
+36.	NASA
+37.	espn
+38.	NBA
+39.	POTUS
+40.	ChampionsLeague
+41.	NatGeo
+42.	NFL
+43.	ChelseaFC
+44.	WestHam
+45.	LFC
+46.	LCFC
+47.	CPFC
+48.	NUFC
+49.	OfficialBHAFC
+50.	Wolves
+51.	MarvelStudios
+52.	DCComics
+53.	CBR
+
+---
+Cluster 10 
+1.	SamsungMobile
+2.	udemy
+

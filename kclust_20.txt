@@ -1,0 +1,173 @@
+Total Number Of Iterations: 5 
+---
+Cluster 1 
+
+---
+Cluster 2 
+
+---
+Cluster 3 
+1.	CHANEL
+2.	realDonaldTrump
+3.	POTUS
+4.	ChampionsLeague
+5.	ManCity
+6.	NUFC
+
+---
+Cluster 4 
+
+---
+Cluster 5 
+1.	OfficialFPL
+
+---
+Cluster 6 
+
+---
+Cluster 7 
+1.	BillGates
+2.	elonmusk
+3.	PlayStation
+4.	NintendoAmerica
+5.	SpaceX
+6.	Telegraph
+7.	CBCNews
+8.	Independent
+9.	RT_com
+10.	guardiannews
+11.	AJEnglish
+12.	SkyNewsBreak
+13.	SkyNews
+14.	FinancialTimes
+15.	BreakingNews
+16.	washingtonpost
+17.	ABC
+18.	TIME
+19.	WSJ
+20.	Reuters
+21.	TheEconomist
+22.	BBCWorld
+23.	BBCBreaking
+24.	CNN
+25.	nytimes
+26.	cnnbrk
+27.	SportsCenter
+28.	NASA
+29.	espn
+30.	NBA
+31.	KAKA
+32.	NatGeo
+33.	NFL
+34.	Arsenal
+35.	ChelseaFC
+36.	WestHam
+37.	LCFC
+38.	CPFC
+39.	OfficialBHAFC
+40.	Wolves
+41.	MarvelStudios
+42.	DCComics
+43.	CBR
+
+---
+Cluster 8 
+1.	Twitter
+2.	Harry_Styles
+
+---
+Cluster 9 
+
+---
+Cluster 10 
+
+---
+Cluster 11 
+
+---
+Cluster 12 
+1.	YouTube
+2.	amazonmusic
+3.	tim_cook
+4.	richardbranson
+5.	rupertmurdoch
+6.	levie
+7.	satyanadella
+8.	bchesky
+9.	Android
+10.	RockstarGames
+11.	Xbox
+12.	SamsungMobile
+13.	BarackObama
+14.	shakira
+15.	instagram
+16.	ManUtd
+17.	Everton
+18.	SouthamptonFC
+19.	SpursOfficial
+20.	LFC
+21.	sundarpichai
+22.	kdnuggets
+23.	udacity
+24.	coursera
+25.	edXOnline
+26.	DataCamp
+
+---
+Cluster 13 
+1.	Google
+2.	amazon
+3.	Uber
+4.	lyft
+5.	VictoriasSecret
+6.	Huawei
+7.	Starbucks
+8.	udemy
+9.	freeCodeCamp
+
+---
+Cluster 14 
+
+---
+Cluster 15 
+
+---
+Cluster 16 
+1.	jimmyfallon
+2.	netflix
+3.	justinbieber
+4.	katyperry
+5.	rihanna
+6.	ladygaga
+7.	TheEllenShow
+8.	ArianaGrande
+9.	KimKardashian
+10.	britneyspears
+11.	KingJames
+12.	JLo
+13.	MileyCyrus
+14.	Oprah
+15.	NiallOfficial
+16.	KevinHart4real
+17.	wizkhalifa
+18.	Louis_Tomlinson
+19.	KylieJenner
+20.	Pink
+21.	onedirection
+22.	aliciakeys
+23.	KendallJenner
+24.	JohnCena
+25.	Tesla
+
+---
+Cluster 17 
+
+---
+Cluster 18 
+
+---
+Cluster 19 
+
+---
+Cluster 20 
+
